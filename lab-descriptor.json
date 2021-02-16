@@ -1,10 +1,10 @@
 {
     "broadArea": {
-        "name": "",
-        "link": ""
+        "name": "Computer Science & Engineering",
+        "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
     },
     "lab": "Python for Basic Arithmetic Operations",
-    "deployLab": ,
+    "deployLab": true,
     "phase": 3,
     "collegeName": "IITK",
     "baseUrl": "",
@@ -82,12 +82,12 @@
     }
     ],
     "targetAudience": {
-        "UG": [],
-        "PG": []
+        "UG": ["B. Tech./ B.E in Computer Science & Engineering"],
+        "PG": ["MS/Ph. D. Beginners in Computer Science & Engineering"]
     },
     "objective": "",
     "courseAlignment": {
-        "description": "",
+        "description": "The lab contents are chosen such that it covers the syllabi of Python",
         "universities": []
     }
 }
