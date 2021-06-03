@@ -93,7 +93,7 @@
       "SCMHRD Maharashtra"
     ]
   },
-  "version": "v1.0.5",
+  "version": "v1.0.6",
   "exp_name": "File Operators",
   "exp_short_name": "file-operators",
   "production": true,
@@ -119,7 +119,7 @@
       "item": "pretest",
       "target": "pretest.html",
       "source": "pretest.js",
-      "label": "Pretest"
+      "label": "Pre Test"
     },
     {
       "item": "procedure",
@@ -136,7 +136,7 @@
       "item": "posttest",
       "target": "posttest.html",
       "source": "posttest.js",
-      "label": "Posttest"
+      "label": "Post Test"
     },
     {
       "item": "references",
