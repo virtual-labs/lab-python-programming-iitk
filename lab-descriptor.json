@@ -14,63 +14,63 @@
       "name": "Arithmetic Operations",
       "short-name": "arithmetic-operations",
       "repo": "https://github.com/virtual-labs/exp-arithmetic-operations-iitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "Built-in Functions",
       "short-name": "built-in-functions",
       "repo": "https://github.com/virtual-labs/exp-built-in-functions-iitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Loops",
       "short-name": "loops",
       "repo": "https://github.com/virtual-labs/exp-loops-iitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Data Types",
       "short-name": "data-types",
       "repo": "https://github.com/virtual-labs/exp-data-types-iitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Strings",
       "short-name": "strings",
       "repo": "https://github.com/virtual-labs/exp-strings-iitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Classes and Objects",
       "short-name": "classes-and-objects",
       "repo": "https://github.com/virtual-labs/exp-classes-and-objects-iitk",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Built-in Modules",
       "short-name": "built-in-modules",
       "repo": "https://github.com/virtual-labs/exp-built-in-modules-iitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Constructors and Inheritance",
       "short-name": "constructors-and-inheritance",
       "repo": "https://github.com/virtual-labs/exp-constructors-and-inheritance-iitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "File Operators",
       "short-name": "file-operators",
       "repo": "https://github.com/virtual-labs/exp-file-operators-iitk",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     }
   ],
@@ -93,7 +93,7 @@
       "SCMHRD Maharashtra"
     ]
   },
-  "version": "v1.2.0",
+  "version": "v1.3.0",
   "exp_name": "File Operators",
   "exp_short_name": "file-operators",
   "production": true,
