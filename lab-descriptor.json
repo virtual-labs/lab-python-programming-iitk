@@ -70,7 +70,7 @@
       "name": "File Operators",
       "short-name": "file-operators",
       "repo": "https://github.com/virtual-labs/exp-file-operators-iitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     }
   ],
