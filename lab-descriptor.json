@@ -57,7 +57,7 @@
       "name": "Built-in Modules",
       "short-name": "built-in-modules",
       "repo": "https://github.com/virtual-labs/exp-built-in-modules-iitk",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
@@ -94,7 +94,7 @@
       "SCMHRD Maharashtra"
     ]
   },
-  "version": "v1.9.0",
+  "version": "v1.10.0",
   "exp_name": "File Operators",
   "exp_short_name": "file-operators",
   "production": true,
