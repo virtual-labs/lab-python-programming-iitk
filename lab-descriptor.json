@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Computer Science and Engineering",
-    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+    "code":"CSE"
   },
   "lab": "Python Programming Lab",
   "lab_display_name": "Python Programming Lab",
