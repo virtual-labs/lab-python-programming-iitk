@@ -2,7 +2,7 @@
   "broadArea": {
     "name": "Computer Science and Engineering",
     "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
-    "code":"CSE"
+    "code": "CSE"
   },
   "lab": "Python Programming Lab",
   "lab_display_name": "Python Programming Lab",
@@ -16,7 +16,7 @@
       "name": "Arithmetic Operations",
       "short-name": "arithmetic-operations",
       "repo": "https://github.com/virtual-labs/exp-arithmetic-operations-iitk",
-      "tag": "v1.0.6",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
@@ -30,7 +30,7 @@
       "name": "Loops",
       "short-name": "loops",
       "repo": "https://github.com/virtual-labs/exp-loops-iitk",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
@@ -84,7 +84,7 @@
       "MS/Ph. D. Beginners in Computer Science Engineering/Information Technology"
     ]
   },
-  "objective": "To introduce python programming <br/>To understand why Python is a useful scripting language for developers.<br/>To learn how to identify Python object types.<br/>To define the structure and components of a Python program.<br/>To learn how to write loops and decision statements in Python.<br/>To learn how to write functions and pass arguments in Python.<br/>To learn how to design object‐oriented programs with Python classes.",
+  "objective": "To introduce python programming <br/>To understand why Python is a useful scripting language for developers.<br/>To learn how to identify Python object types.<br/>To define the structure and components of a Python program.<br/>To learn how to write loops and decision statements in Python.<br/>To learn how to write functions and pass arguments in Python.<br/>To learn how to design objectâoriented programs with Python classes.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of Python Programming Lab",
     "universities": [
@@ -146,6 +146,10 @@
       "source": "references.md",
       "label": "References"
     },
-    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+    {
+      "item": "feedback",
+      "target": "feedback.html",
+      "label": "Feedback"
+    }
   ]
 }
